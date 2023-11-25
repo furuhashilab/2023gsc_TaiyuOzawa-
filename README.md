@@ -41,5 +41,6 @@ Resultsで示したデータがどのような傾向を示しているのか、�
 ## 謝辞
 
 ## 参考文献
+https://docs.google.com/spreadsheets/d/1GLylHkcSu2AUoVp84yU7rH-v1CkUVd7WUmREGl45T1I/edit#gid=0
 
 
