@@ -31,6 +31,7 @@ promptではなく「ワードリスト」を作成する理由としては、�
 `どんなシチュエーションの画像が汎用性高いかを質問`
 `VAE,GANについては要調べ`
 `3.5にするか4にするかも考える`
+格納場所：https://docs.google.com/spreadsheets/d/1GLylHkcSu2AUoVp84yU7rH-v1CkUVd7WUmREGl45T1I/edit#gid=804927239
 
 
 ## Methods：研究に用いた方法、手法、ストラテジーについて記述する。
