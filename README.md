@@ -77,6 +77,11 @@ promptではなく「ワードリスト」を作成する理由としては、�
 
 4.promptの型にワードを当てはめて検証していく
 
+メディウムから、頻出ワードをリストアップ
+![スクリーンショット 2023-11-28 11 10 41](https://github.com/furuhashilab/2023gsc_TaiyuOzawa-/assets/87391164/ed130e75-aac7-4a7e-8d2a-9baaf14feb0c)
+
+
+
 
 
 Midjourneyでは、promptと呼ばれる指示文章によって画像を生成を行うが、その際に画像生成で描写したくないものを「ネガティブprompt」として指定することができる。
