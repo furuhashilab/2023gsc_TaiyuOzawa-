@@ -47,6 +47,13 @@ promptではなく「ワードリスト」を作成する理由としては、�
 4.ジオワードをGoogle Sheetsにまとめる
 : https://docs.google.com/spreadsheets/d/1GLylHkcSu2AUoVp84yU7rH-v1CkUVd7WUmREGl45T1I/edit#gid=804927239
 
+`別研究の参考制作過程`
+
+1.研究に関する基盤語彙リストを作成
+
+2.語彙にアノテーションを付与
+
+3.学習済みの SVMにワードを記入
 
 `ワードリスト制作過程仮説①`
 
