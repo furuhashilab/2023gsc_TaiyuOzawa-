@@ -81,6 +81,7 @@ promptではなく「ワードリスト」を作成する理由としては、�
 ![スクリーンショット 2023-11-28 11 10 41](https://github.com/furuhashilab/2023gsc_TaiyuOzawa-/assets/87391164/ed130e75-aac7-4a7e-8d2a-9baaf14feb0c)
 
 Google sheetsに順次記載
+
 <img width="819" alt="スクリーンショット 2023-11-28 11 11 39" src="https://github.com/furuhashilab/2023gsc_TaiyuOzawa-/assets/87391164/923d038b-5b78-4d08-94fd-7f18560ed64c">
 
 
