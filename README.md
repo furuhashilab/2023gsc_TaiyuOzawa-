@@ -33,6 +33,8 @@ promptではなく「ワードリスト」を作成する理由としては、�
 `3.5にするか4にするかも考える`
 格納場所：https://docs.google.com/spreadsheets/d/1GLylHkcSu2AUoVp84yU7rH-v1CkUVd7WUmREGl45T1I/edit#gid=804927239
 
+Stable Diffusion
+DALL・E2
 
 ## Methods：（研究に用いた方法、手法、ストラテジーについて記述する。）
 
@@ -47,7 +49,7 @@ promptではなく「ワードリスト」を作成する理由としては、�
 4.ジオワードをGoogle Sheetsにまとめる
 : https://docs.google.com/spreadsheets/d/1GLylHkcSu2AUoVp84yU7rH-v1CkUVd7WUmREGl45T1I/edit#gid=804927239
 
-`別研究の参考制作過程`
+`別研究の参考制作過程`(b)
 
 1.研究に関する基盤語彙リストを作成
 
@@ -90,6 +92,7 @@ Google sheetsに順次記載
 
 Midjourneyでは、promptと呼ばれる指示文章によって画像を生成を行うが、その際に画像生成で描写したくないものを「ネガティブprompt」として指定することができる。
 よって今回の研究では、「promptに含めるべきワード」と、promptに含まないことでより理想の画像に近づける、「ネガティブprompt」の双方のリスト化を行う。
+
 
 
 
