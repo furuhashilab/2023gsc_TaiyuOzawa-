@@ -15,7 +15,7 @@
 
 © Furuhashi Laboratory/Taiyu Ozawa, CC BY 4.0
 
-# Title：画像生成AIによる、ゼミ用画像生成におけるジオワードリストの構築
+# Title：画像生成AIによる、ゼミ用画像生成におけるゼミワードリストの構築
 
 ## Abstract：文章全体の要約
 
